@@ -6,5 +6,6 @@ There 4 files of Jupyter Notebook
 - Linear Regression
 - Dicision Tree
 - Logistic Regression
-- 
+Have fun with ML.
+Thank you.
 
